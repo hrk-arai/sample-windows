@@ -1,0 +1,3 @@
+# sample-windows
+
+windowsの役割と機能の追加をrecipeから実行するためのサンプル
